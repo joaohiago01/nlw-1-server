@@ -2,7 +2,9 @@
 
 ## :deciduous_tree: Description
 
-Ecoleta is an Open Source project developed in [Rocketseat](https://rocketseat.com.br/) Next Level Week (1.0) using TypeScript, Node and React Native technologies.
+Ecoleta is an Open Source project developed in [Rocketseat](https://rocketseat.com.br/) Next Level Week #1 using TypeScript, Node and React Native technologies. 
+
+[Mobile Application](https://github.com/joaohiago01/nlw-mobile)
 
 ![ic_ecoleta](https://user-images.githubusercontent.com/38081852/84095189-04178580-a9d5-11ea-9496-9ec6f6a282e5.png)
 
